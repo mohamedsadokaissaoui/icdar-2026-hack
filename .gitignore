@@ -1,0 +1,14 @@
+# weights & outputs
+*.pth
+*.pt
+*.safetensors
+submission*.csv
+cm_*.png
+
+# data
+data/
+*.csv
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
