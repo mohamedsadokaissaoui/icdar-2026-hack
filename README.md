@@ -160,7 +160,7 @@ $$
 \mathcal{L} \;=\; \underbrace{\mathrm{CE}\big(z^f + d,\ y\big)}_{\mathcal{L}_{cls}}
 \;+\; \alpha\,\underbrace{\mathrm{CE}\big(p^f,\ l\big)}_{\mathcal{R}_{att}}
 \;-\; \beta\,\underbrace{\textstyle\sum_n p^f_n \log p^f_n}_{\mathcal{R}_{ent}},
-\qquad d = \mathrm{sg}(p^f) - p^b, \quad \alpha = \beta = 1
+\qquad d = \mathrm{sg}(p^f) - p^b, \quad \alpha = \beta = 1.
 $$
 
 | term | what it does | effect on pens 3/7/8 |
